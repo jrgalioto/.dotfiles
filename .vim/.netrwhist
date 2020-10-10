@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/jim/.config/awesome'
+let g:netrw_dirhist_6='/home/jim/.config/fish/functions'
+let g:netrw_dirhist_5='/home/jim/Desktop'
+let g:netrw_dirhist_4='/home/jim/.config/i3'
+let g:netrw_dirhist_3='/home/jim/.vim'
+let g:netrw_dirhist_2='/usr/share/xgreeters'
+let g:netrw_dirhist_1='/home/jim/.config'

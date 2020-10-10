@@ -1,0 +1,8 @@
+[Added Associations]
+application/x-trash=vscodium-bin.desktop;
+text/plain=vscodium-bin.desktop;
+text/html=chromium.desktop;vscodium-bin.desktop;vim.desktop;
+text/css=vim.desktop;
+
+[Default Applications]
+text/plain=vscodium-bin.desktop

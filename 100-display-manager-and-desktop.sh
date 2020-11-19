@@ -48,7 +48,11 @@ echo "Installation of the core software"
 
 list=(
 dmenu
-thunar
+xorg
+feh
+xterm
+lxappearance
+firefox
 alacritty
 ranger
 picom

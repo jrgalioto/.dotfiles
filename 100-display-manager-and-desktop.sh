@@ -63,6 +63,7 @@ chromium
 vim
 feh
 rofi
+tmux
 )
 
 count=0

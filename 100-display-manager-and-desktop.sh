@@ -47,6 +47,7 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
+htop
 dmenu
 xorg
 feh
@@ -64,6 +65,7 @@ vim
 feh
 rofi
 tmux
+pcmanfm
 )
 
 count=0

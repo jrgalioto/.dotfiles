@@ -8,3 +8,6 @@ yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki
 Set LOGIN:
 sudo systemctl enable lightdm.service
 
+Common Commands:
+$ trash-empty										// self-explanitory
+$ sudo pacman -Qtdq | sudo pacman -Rns -			// delete orphan packages

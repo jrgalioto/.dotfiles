@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Nord",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "git.enableSmartCommit": true
 }

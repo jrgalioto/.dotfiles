@@ -1,3 +1,9 @@
-2020/11/27-16:12:30.278 2c3 Reusing MANIFEST /home/jim/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/11/27-16:12:30.278 2c3 Recovering log #14
-2020/11/27-16:12:30.279 2c3 Reusing old log /home/jim/.config/chromium/Default/Sync Data/LevelDB/000014.log 
+2020/11/27-17:04:25.294 4712 Reusing MANIFEST /home/jim/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/11/27-17:04:25.294 4712 Recovering log #21
+2020/11/27-17:04:25.294 4712 Reusing old log /home/jim/.config/chromium/Default/Sync Data/LevelDB/000021.log 
+2020/11/27-17:19:30.888 542f Level-0 table #25: started
+2020/11/27-17:19:30.900 542f Level-0 table #25: 114203 bytes OK
+2020/11/27-17:19:30.908 542f Delete type=0 #21
+2020/11/27-17:33:39.883 7f92 Level-0 table #27: started
+2020/11/27-17:33:39.894 7f92 Level-0 table #27: 120480 bytes OK
+2020/11/27-17:33:39.899 7f92 Delete type=0 #24

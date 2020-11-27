@@ -48,7 +48,6 @@ echo "Installation of the core software"
 
 list=(
 htop
-dmenu
 xorg
 feh
 xterm
@@ -58,7 +57,6 @@ alacritty
 ranger
 picom
 awesome
-vicious
 code
 chromium
 vim
@@ -66,6 +64,7 @@ feh
 rofi
 tmux
 pcmanfm
+trash-cli
 )
 
 count=0

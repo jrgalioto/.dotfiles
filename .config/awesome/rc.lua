@@ -473,6 +473,27 @@ globalkeys = my_table.join(
             beautiful.mpd.update()
         end,
         {description = "mpc next", group = "widgets"}),
+
+--    awful.key({}, "XF86AudioRaiseVolume",
+--        function ()
+--            awful.util.spawn("amixer -q set " .. myvolumebar.channel .. " " .. myvolumebar.step .. "+")
+--            myvolumebar.notify()
+--        end),
+--    awful.key({}, "XF86AudioLowerVolume",
+--        function ()
+--            awful.util.spawn("amixer -q set " .. myvolumebar.channel .. " " .. myvolumebar.step .. "-")
+--            myvolumebar.notify()
+--        end),
+    awful.key({}, "XF86AudioMute",
+        function ()
+            awful.util.spawn("amixer -q set " .. myvolumebar.channel .. " playback toggle")
+            myvolumebar.notify()
+        end),
+    awful.key({}, "XF86AudioMicMute",
+        function ()
+            awful.util.spawn("amixer set Capture toggle")
+        end),
+
     awful.key({ altkey }, "0",
         function ()
             local common = { text = "MPD widget ", position = "top_middle", timeout = 2 }
@@ -484,7 +505,7 @@ globalkeys = my_table.join(
                 common.text = common.text .. lain.util.markup.bold("ON")
             end
             naughty.notify(common)
-        end,
+       end,
         {description = "mpc on/off", group = "widgets"}),
 
     -- Copy primary to clipboard (terminals to gtk)

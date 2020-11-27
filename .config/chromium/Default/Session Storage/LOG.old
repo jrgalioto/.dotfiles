@@ -1,3 +1,6 @@
-2020/11/27-16:12:30.383 2c4 Reusing MANIFEST /home/jim/.config/chromium/Default/Session Storage/MANIFEST-000001
-2020/11/27-16:12:30.383 2c4 Recovering log #9
-2020/11/27-16:12:30.384 2c4 Reusing old log /home/jim/.config/chromium/Default/Session Storage/000009.log 
+2020/11/27-17:04:25.391 4729 Reusing MANIFEST /home/jim/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/11/27-17:04:25.391 4729 Recovering log #9
+2020/11/27-17:04:25.392 4729 Reusing old log /home/jim/.config/chromium/Default/Session Storage/000009.log 
+2020/11/27-17:05:07.607 4726 Level-0 table #13: started
+2020/11/27-17:05:07.614 4726 Level-0 table #13: 18831 bytes OK
+2020/11/27-17:05:07.618 4726 Delete type=0 #9

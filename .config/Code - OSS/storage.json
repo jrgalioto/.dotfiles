@@ -2,9 +2,12 @@
     "telemetry.machineId": "e45fcf533e432d39fb111bf6273cb93e1a727e3e7e3de1744850c174f6d2ffa4",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/jim/.dotfiles",
             "file:///home/jim"
         ],
         "files2": [
+            "file:///home/jim/.dotfiles/README",
+            "file:///home/jim/.dotfiles/.git/config",
             "file:///home/jim/100-display-manager-and-desktop.sh",
             "file:///home/jim/.config/picom.conf",
             "file:///home/jim/.config/awesome/rc.lua"
@@ -54,6 +57,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/jim/.dotfiles",
+                                        "path": "/home/jim/.dotfiles",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jim",
                                         "path": "/home/jim",
                                         "scheme": "file"
                                     },
@@ -62,6 +77,28 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jim/.dotfiles/README",
+                                        "path": "/home/jim/.dotfiles/README",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles/README"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jim/.dotfiles/.git/config",
+                                        "path": "/home/jim/.dotfiles/.git/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.dotfiles/.git/config"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -410,8 +447,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1483,16 +1519,16 @@
     "themeBackground": "#2e3440",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jim/.config/Code - OSS/Backups/1606512057489",
+            "backupPath": "/home/jim/.config/Code - OSS/Backups/1606518513518",
             "uiState": {
                 "mode": 1,
-                "x": 4,
-                "y": 28,
-                "width": 2040,
-                "height": 1120
+                "x": 6,
+                "y": 30,
+                "width": 1014,
+                "height": 1116
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home"
+    "pickerWorkingDir": "/home/jim"
 }

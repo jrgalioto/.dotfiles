@@ -1,5 +1,66 @@
-2020/11/27-16:12:30.282 2ce Reusing MANIFEST /home/jim/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/11/27-16:12:30.282 2ce Recovering log #38
-2020/11/27-16:12:30.283 2ce Level-0 table #41: started
-2020/11/27-16:12:30.288 2ce Level-0 table #41: 60256 bytes OK
-2020/11/27-16:12:30.293 2ce Delete type=0 #38
+2020/11/27-17:04:25.296 4711 Reusing MANIFEST /home/jim/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/27-17:04:25.296 4711 Recovering log #44
+2020/11/27-17:04:25.296 4711 Reusing old log /home/jim/.config/chromium/Default/Local Storage/leveldb/000044.log 
+2020/11/27-17:05:07.607 4727 Level-0 table #48: started
+2020/11/27-17:05:07.614 4727 Level-0 table #48: 66411 bytes OK
+2020/11/27-17:05:07.619 4727 Delete type=0 #44
+2020/11/27-17:05:07.619 4726 Compacting 4@0 + 1@1 files
+2020/11/27-17:05:07.634 4726 Generated table #49@0: 216 keys, 531361 bytes
+2020/11/27-17:05:07.634 4726 Compacted 4@0 + 1@1 files => 531361 bytes
+2020/11/27-17:05:07.638 4726 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/27-17:05:07.638 4726 Delete type=2 #39
+2020/11/27-17:05:07.638 4726 Delete type=2 #37
+2020/11/27-17:05:07.638 4726 Delete type=2 #41
+2020/11/27-17:05:07.638 4726 Delete type=2 #45
+2020/11/27-17:05:07.638 4726 Delete type=2 #48
+2020/11/27-17:14:38.168 50bb Level-0 table #51: started
+2020/11/27-17:14:38.180 50bb Level-0 table #51: 62276 bytes OK
+2020/11/27-17:14:38.184 50bb Delete type=0 #47
+2020/11/27-17:15:37.305 50bb Level-0 table #53: started
+2020/11/27-17:15:37.317 50bb Level-0 table #53: 61933 bytes OK
+2020/11/27-17:15:37.322 50bb Delete type=0 #50
+2020/11/27-17:16:03.215 4711 Level-0 table #55: started
+2020/11/27-17:16:03.228 4711 Level-0 table #55: 60656 bytes OK
+2020/11/27-17:16:03.232 4711 Delete type=0 #52
+2020/11/27-17:16:40.250 517f Level-0 table #57: started
+2020/11/27-17:16:40.257 517f Level-0 table #57: 60716 bytes OK
+2020/11/27-17:16:40.263 517f Delete type=0 #54
+2020/11/27-17:16:40.263 50ca Compacting 4@0 + 1@1 files
+2020/11/27-17:16:40.307 50ca Generated table #58@0: 222 keys, 531845 bytes
+2020/11/27-17:16:40.307 50ca Compacted 4@0 + 1@1 files => 531845 bytes
+2020/11/27-17:16:40.311 50ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/27-17:16:40.312 50ca Delete type=2 #51
+2020/11/27-17:16:40.312 50ca Delete type=2 #53
+2020/11/27-17:16:40.312 50ca Delete type=2 #49
+2020/11/27-17:16:40.312 50ca Delete type=2 #55
+2020/11/27-17:16:40.312 50ca Delete type=2 #57
+2020/11/27-17:19:04.881 50bb Level-0 table #60: started
+2020/11/27-17:19:04.896 50bb Level-0 table #60: 60256 bytes OK
+2020/11/27-17:19:04.901 50bb Delete type=0 #56
+2020/11/27-17:20:53.249 55f3 Level-0 table #62: started
+2020/11/27-17:20:53.264 55f3 Level-0 table #62: 61664 bytes OK
+2020/11/27-17:20:53.270 55f3 Delete type=0 #59
+2020/11/27-17:23:12.372 55f9 Level-0 table #64: started
+2020/11/27-17:23:12.388 55f9 Level-0 table #64: 60839 bytes OK
+2020/11/27-17:23:12.396 55f9 Delete type=0 #61
+2020/11/27-17:23:32.751 517f Level-0 table #66: started
+2020/11/27-17:23:32.766 517f Level-0 table #66: 60888 bytes OK
+2020/11/27-17:23:32.772 517f Delete type=0 #63
+2020/11/27-17:23:32.772 572b Compacting 4@0 + 1@1 files
+2020/11/27-17:23:32.816 572b Generated table #67@0: 224 keys, 531797 bytes
+2020/11/27-17:23:32.816 572b Compacted 4@0 + 1@1 files => 531797 bytes
+2020/11/27-17:23:32.821 572b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/27-17:23:32.821 572b Delete type=2 #60
+2020/11/27-17:23:32.821 572b Delete type=2 #62
+2020/11/27-17:23:32.821 572b Delete type=2 #64
+2020/11/27-17:23:32.821 572b Delete type=2 #66
+2020/11/27-17:23:32.821 572b Delete type=2 #58
+2020/11/27-17:24:47.785 58a5 Level-0 table #69: started
+2020/11/27-17:24:47.800 58a5 Level-0 table #69: 60893 bytes OK
+2020/11/27-17:24:47.806 58a5 Delete type=0 #65
+2020/11/27-17:25:45.593 572b Level-0 table #71: started
+2020/11/27-17:25:45.601 572b Level-0 table #71: 60883 bytes OK
+2020/11/27-17:25:45.606 572b Delete type=0 #68
+2020/11/27-17:29:07.742 7d60 Level-0 table #73: started
+2020/11/27-17:29:07.749 7d60 Level-0 table #73: 60884 bytes OK
+2020/11/27-17:29:07.753 7d60 Delete type=0 #70

@@ -1,0 +1,8 @@
+2020/11/25-17:31:17.881 40b6 Reusing MANIFEST /home/jim/.config/chromium/Default/IndexedDB/https_www.shutterfly.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/25-17:31:17.882 40b6 Recovering log #13
+2020/11/25-17:31:17.882 40b6 Reusing old log /home/jim/.config/chromium/Default/IndexedDB/https_www.shutterfly.com_0.indexeddb.leveldb/000013.log 
+2020/11/25-17:33:47.168 3d12 Level-0 table #17: started
+2020/11/25-17:33:47.168 3d12 Level-0 table #17: 0 bytes OK
+2020/11/25-17:33:47.177 3d12 Delete type=0 #13
+2020/11/25-17:33:47.177 3d12 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/25-17:33:47.177 3d12 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

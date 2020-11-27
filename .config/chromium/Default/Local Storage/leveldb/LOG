@@ -1,0 +1,6 @@
+2020/11/27-16:21:40.334 54f Reusing MANIFEST /home/jim/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/27-16:21:40.334 54f Recovering log #42
+2020/11/27-16:21:40.334 54f Reusing old log /home/jim/.config/chromium/Default/Local Storage/leveldb/000042.log 
+2020/11/27-16:22:53.994 548 Level-0 table #45: started
+2020/11/27-16:22:54.007 548 Level-0 table #45: 62268 bytes OK
+2020/11/27-16:22:54.013 548 Delete type=0 #42

@@ -1,0 +1,15 @@
+2020/11/27-16:21:40.330 546 Reusing MANIFEST /home/jim/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/11/27-16:21:40.330 546 Recovering log #14
+2020/11/27-16:21:40.332 546 Reusing old log /home/jim/.config/chromium/Default/Sync Data/LevelDB/000014.log 
+2020/11/27-16:22:11.043 547 Level-0 table #18: started
+2020/11/27-16:22:11.049 547 Level-0 table #18: 118586 bytes OK
+2020/11/27-16:22:11.056 547 Delete type=0 #14
+2020/11/27-16:22:11.057 56d Compacting 4@0 + 1@1 files
+2020/11/27-16:22:11.067 56d Generated table #19@0: 82 keys, 16976 bytes
+2020/11/27-16:22:11.067 56d Compacted 4@0 + 1@1 files => 16976 bytes
+2020/11/27-16:22:11.072 56d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/27-16:22:11.073 56d Delete type=2 #13
+2020/11/27-16:22:11.073 56d Delete type=2 #15
+2020/11/27-16:22:11.073 56d Delete type=2 #18
+2020/11/27-16:22:11.073 56d Delete type=2 #8
+2020/11/27-16:22:11.073 56d Delete type=2 #10

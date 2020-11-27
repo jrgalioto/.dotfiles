@@ -8,5 +8,6 @@ xrandr --output eDP1 --primary --mode 2048x1152 --pos 0x0 --rotate normal --outp
 # [[ $TERM != "screen" ]] && exec tmux
 
 #run pfetch
-pfetch 
-#fish
+#pfetch 
+#set-button-map 'Synaptics TM3289-021' 1 1 1
+fish

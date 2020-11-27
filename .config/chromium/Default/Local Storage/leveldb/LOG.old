@@ -1,0 +1,5 @@
+2020/11/27-16:12:30.282 2ce Reusing MANIFEST /home/jim/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/27-16:12:30.282 2ce Recovering log #38
+2020/11/27-16:12:30.283 2ce Level-0 table #41: started
+2020/11/27-16:12:30.288 2ce Level-0 table #41: 60256 bytes OK
+2020/11/27-16:12:30.293 2ce Delete type=0 #38

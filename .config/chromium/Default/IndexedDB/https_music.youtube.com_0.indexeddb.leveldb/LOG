@@ -1,0 +1,8 @@
+2020/11/25-17:15:46.562 29f0 Reusing MANIFEST /home/jim/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/25-17:15:46.562 29f0 Recovering log #4
+2020/11/25-17:15:46.563 29f0 Reusing old log /home/jim/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2020/11/25-17:15:48.575 29dc Level-0 table #8: started
+2020/11/25-17:15:48.576 29dc Level-0 table #8: 0 bytes OK
+2020/11/25-17:15:48.589 29dc Delete type=0 #4
+2020/11/25-17:15:48.589 29dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/25-17:15:48.590 29dc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

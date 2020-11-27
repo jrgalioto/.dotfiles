@@ -1,0 +1,15 @@
+2020/11/25-17:30:20.026 40b6 Reusing MANIFEST /home/jim/.config/chromium/Default/IndexedDB/https_photos.shutterfly.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/25-17:30:20.026 40b6 Recovering log #4
+2020/11/25-17:30:20.026 40b6 Reusing old log /home/jim/.config/chromium/Default/IndexedDB/https_photos.shutterfly.com_0.indexeddb.leveldb/000004.log 
+2020/11/25-17:30:28.865 3a06 Level-0 table #8: started
+2020/11/25-17:30:28.872 3a06 Level-0 table #8: 475 bytes OK
+2020/11/25-17:30:28.876 3a06 Delete type=0 #4
+2020/11/25-17:30:28.876 3a06 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/25-17:30:28.876 3a06 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0f\x00P\x00X\x00-\x000\x002\x004\x000\x007\x008\x006\x000\x002\x003\x006\x009' @ 293 : 1
+2020/11/25-17:30:28.876 3a06 Compacting 1@1 + 1@2 files
+2020/11/25-17:30:28.880 3a06 Generated table #9@1: 84 keys, 1945 bytes
+2020/11/25-17:30:28.880 3a06 Compacted 1@1 + 1@2 files => 1945 bytes
+2020/11/25-17:30:28.884 3a06 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/25-17:30:28.884 3a06 Delete type=2 #5
+2020/11/25-17:30:28.884 3a06 Delete type=2 #8
+2020/11/25-17:30:28.884 3a06 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0f\x00P\x00X\x00-\x000\x002\x004\x000\x007\x008\x006\x000\x002\x003\x006\x009' @ 293 : 1 .. (end); will stop at (end)

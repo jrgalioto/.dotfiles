@@ -1,13 +1,13 @@
 Run Script:
-sh 100-display-manager-and-desktop.sh
+$ sh 100-display-manager-and-desktop.sh
 
 AUR Installs:
-yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki
+$ yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki
 
 
 Set LOGIN:
-sudo systemctl enable lightdm.service
+$ sudo systemctl enable lightdm.service
 
 Common Commands:
-$ trash-empty										// self-explanitory
-$ sudo pacman -Qtdq | sudo pacman -Rns -			// delete orphan packages
+$ trash-empty							        // self-explanitory
+$ sudo pacman -Qtdq | sudo pacman -Rns -		// delete orphan packages

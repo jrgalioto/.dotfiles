@@ -75,8 +75,8 @@ bindsym $mod+Return exec alacritty
 # Open chromium
 bindsym $mod+F1 exec chromium https://duckduckgo.com/
 # Open VS Codium
-bindsym $mod+F2 exec vscodium 
-# Open Discord
+bindsym $mod+F2 exec subl3 
+# Open file explorer
 bindsym $mod+F3 exec pcmanfm
 # Open ranger
 bindsym $mod+F4 exec alacritty -e ranger
@@ -306,8 +306,8 @@ exec_always  picom
 exec_always feh --bg-fill Pictures/wallpaper.jpg
 
 # Notification
-exec_always dunst
+# exec_always dunst
 
 # Autostart programs
-exec terminator
+exec alacritty
 

@@ -2,7 +2,7 @@ Run Script:
 $ sh 100-display-manager-and-desktop.sh
 
 AUR Installs:
-$ yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki
+$ yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki slack-desktop balena-etcher
 
 
 Set LOGIN:

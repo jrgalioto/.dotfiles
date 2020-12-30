@@ -9,5 +9,5 @@ xrandr --output eDP1 --primary --mode 2048x1152 --pos 0x0 --rotate normal --outp
 
 #run pfetch
 #pfetch 
-#set-button-map 'Synaptics TM3289-021' 1 1 1
-fish
+set-button-map 'Synaptics TM3289-021' 1 1 1
+#fish

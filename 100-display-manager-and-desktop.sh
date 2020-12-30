@@ -38,7 +38,7 @@ func_install() {
     	echo "###############################################################################"
     	echo
     	tput sgr0
-    	sudo pacman -S --noconfirm --needed $1
+    	yay  -S --noconfirm --needed $1
     fi
 }
 
@@ -52,7 +52,7 @@ xorg
 feh
 xterm
 lxappearance
-firefox
+lightdm-webkit-theme-aether
 alacritty
 ranger
 picom
@@ -65,6 +65,11 @@ rofi
 tmux
 pcmanfm
 trash-cli
+nerd-fonts-mononoki
+adapta-nord-git
+papirus-icon-theme-git
+pfetch-git
+
 )
 
 count=0

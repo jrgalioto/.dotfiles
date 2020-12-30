@@ -1,3 +1,3 @@
 set fish_greeting
 
-pfetch
+#pfetch

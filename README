@@ -4,6 +4,8 @@ $ sh 100-display-manager-and-desktop.sh
 AUR Installs:
 $ yay lightdm-webkit-theme-aether sublime-text-dev nerd-fonts-mononoki slack-desktop balena-etcher
 
+Copy Fish config
+$ cp config.fish ~/.config/fish/config.fish
 
 Set LOGIN:
 $ sudo systemctl enable lightdm.service
